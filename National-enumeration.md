@@ -44,17 +44,76 @@ Number | Nation
 42 |Côte d'Ivoire
 43 |Croatia
 44 |Cuba
-44 |Cyprus
-45 |Czech Republic
-46 |Denmark
-47 |Djibouti
-48 |Dominica
-49 |Dominican Republic
-50 |East Timor
-51|Ecuador
-52|Egypt
-53|El Salvador
-54|Equitorial Guinea
-55|Eritrea
-56|Estonia
-57|Eswatini
+45 |Cyprus
+46 |Czech Republic
+47 |Denmark
+48 |Djibouti
+49 |Dominica
+50 |Dominican Republic
+51 |East Timor
+52|Ecuador
+53|Egypt
+54|El Salvador
+55|Equitorial Guinea
+56|Eritrea
+57|Estonia
+58|Eswatini
+59|Ethiopia
+60|Fiji
+61|Finland
+62|France
+63|Gabon
+64|Gambia
+65|Georgia
+66|Germany
+67|Ghana
+68|Greece
+69|Grenada
+70|Guatemala
+71|Guinea
+72|Guinea-Bissau
+73|Guyana
+74|Haiti
+75|Honduras
+76|Hungary
+77|Iceland
+78|India
+79|Indonesia
+80|Iran
+81|Iraq
+82|Ireland
+83|Israel
+84|Italy
+85|Jamaica
+86|Japan
+87|Jordan
+88|Kazakhstan
+89|Kenya
+90|Kiribati
+91|Kuwait
+92|Kyrgyzstan
+93|Laos
+94|Latvia
+95|Lebanon
+96|Lesotho
+97|Liberia
+98|Libya
+99|Liechtenstein
+100|Lithuania
+101|Luxembourg
+102|Madagascar
+103|Malawi
+104|Malaysia
+105|Maldives
+106|Mali
+107|Malta
+108|Marshall Islands
+109|Mauritania
+110|Mauritius
+111|Mexico
+112|Micronesia
+113|Moldova
+114|Monaco
+115|Mongolia
+116|Montenegro
+117|Morocco
