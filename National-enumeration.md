@@ -117,3 +117,79 @@ Number | Nation
 115|Mongolia
 116|Montenegro
 117|Morocco
+118|Moazmbique
+119|Myanmar (Burma)
+120|Namibia
+121|Nauru
+122|Nepal
+123|Netherlands
+124|New Zealand
+125|Nicaragua
+126|Niger
+127|Nigeria
+128|North Korea
+129|North Macedonia
+130|Norway
+131|Oman
+132|Pakistan
+133|Palau
+134|Palestine
+135|Panama
+136|Paupa New Guinea
+137|Paraguay
+138|Peru
+139|Phillipines
+140|Poland
+141|Portugal
+142|Qatar
+143|Romania
+144|Russia
+145|Rwanda
+146|Saint Kitts and Nevis
+147|Saint Lucia
+148|Saint Vincent and the Grenadines
+149|Samoa
+150|San Marino
+151|São Tomé and Príncipe
+152|Saudi Arabia
+153|Senegal
+154|Serbia
+155|Seychelles
+156|Sierra Leone
+157|Singapore
+158|Slovakia
+159|Slovenia
+160|Solomon Islands
+161|Somalia
+162|South Africa
+163|South Korea
+164|South Sudan
+165|Spain
+166|Sri Lanka 
+167|Sudan
+168|Suriname
+169|Sweden
+170|Switzerland
+171|Syria
+172|Tanzania
+173|Thailand
+174|Togo
+175|Tonga
+176|Trinidad and Tobago
+177|Tunisia
+178|Turkey
+179|Turkmenistan
+180|Tuvalu
+181|Uganda
+182|Ukraine
+183|United Arab Emirates
+184|United Kingdom
+185|United States
+186|Uruguay
+187|Uzbekistan
+188|Vanuatu
+189|Vatican City
+190|Vietnam
+191|Yemen
+192|Zambia
+193|Zimbabwe
